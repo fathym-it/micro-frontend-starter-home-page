@@ -1,5 +1,5 @@
 # Plasmic workflow v3
-name: Sync, build and deploy Plasmic app
+name: LCU Sync, build and deploy Plasmic app
 
 on:
   repository_dispatch:
